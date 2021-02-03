@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Meetify",
-    "version": "1.1",
+    "version": "1.2",
     "description": "Automatically switch to Google's school account when entering a Meet reunion.",
     "icons": {
         "48": "icons/meet-48.png",
